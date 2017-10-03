@@ -1,0 +1,128 @@
+{
+	"data": {
+	  "query":"gán nhãn từ loại tiếng việt",
+	  "description": "Muốn tìm  hiểu về các phương pháp gán nhãn từ loại cho tiếng việt: tổng hợp các phương pháp, giải thích 1 phương pháp cụ thể, hướng dẫn cài đặt...đều phù hợp ",
+		"arrLink": [
+			{
+			  "name"       : "http://www.jaist.ac.jp/~bao/VLSP-text/ICTrda08/ICT08-VLSP-SP83.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.vnulib.edu.vn:8000/dspace/bitstream/123456789/1801/1/sedev0206-02.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://repository.vnu.edu.vn/bitstream/VNU_123/8188/1/01050000498.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://ongxuanhong.wordpress.com/2016/09/02/gan-nhan-tu-loai-part-of-speech-tagging-pos/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://lrc.tnu.edu.vn/upload/collection/brief/36031_171201315202339.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://vlsp.hpda.vn/demo/?page=resources",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.vietlex.com/images/tulieu/ITCra03POSTagging.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://luanvan.co/luan-van/mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet-37686/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://doc.edu.vn/tai-lieu/luan-van-mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet-42638/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://text.xemtailieu.com/tai-lieu/mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet-150792.htmlv",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://sachviet.edu.vn/threads/mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet.57288/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://sachviet.edu.vn/threads/nghien-cuu-gan-nhan-tu-loai-cho-van-ban-tieng-viet-bang-phuong-phap-hoc-may-khong-co-huong-dan.66103/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://tailieu.vn/tag/gan-nhan-tu-loai-tieng-viet.html",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://is.hust.edu.vn/~huonglt/UNLP/4_POS.pdf",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://vais.vn/vi/tai-ve/",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "https://books.google.com.vn/books/about/G%C3%A1n_nh%C3%A3n_t%E1%BB%AB_lo%E1%BA%A1i_ti%E1%BA%BFng_Vi%E1%BB%87t_qu.html?id=kNAvnQAACAAJ&redir_esc=y",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://xltiengviet.wikia.com/wiki/Danh_s%C3%A1ch_ph%E1%BA%A7n_m%E1%BB%81m_t%E1%BB%B1_do/ngu%E1%BB%93n_m%E1%BB%9F",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "http://doan.edu.vn/do-an/luan-van-so-sanh-mot-so-phuong-phap-hoc-may-cho-bai-toan-gan-nhan-tu-loai-tieng-viet-21704/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.thuvientailieu.vn/tai-lieu/luan-van-mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet-36522/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://www.webtailieu.edu.vn/threads/gan-nhan-tu-loai-tu-dong-cho-tieng-viet.8840/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://vietunicode.sourceforge.net/forum/viewtopic.php?t=1182 ",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "https://www.repustate.com/vietnamese-sentiment-analysis/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.vjol.info/index.php/JSTD/article/viewArticle/28925",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://www.scribd.com/document/134222524/Mo-hinh-tach-t%E1%BB%AB-gan-nhan-t%E1%BB%AB-lo%E1%BA%A1i-va-h%C6%B0%E1%BB%9Bng-ti%E1%BA%BFp-c%E1%BA%ADn-tich-h%E1%BB%A3p-cho-ti%E1%BA%BFng-Vi%E1%BB%87t",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://wordnet.vn/vi/chi-tiet-tai-nguyen-6.html",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "http://www.ptit.edu.vn/wps/wcm/connect/be8d360041603edc9efc9e1471634eae/tomtat4.pdf?MOD=AJPERES&CACHEID=be8d360041603edc9efc9e1471634eae",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "http://tai-lieu.com/tai-lieu/luan-van-mo-hinh-tach-tu-gan-nhan-tu-loai-va-huong-tiep-can-tich-hop-cho-tieng-viet-14073/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://vnlp.net/2009/06/25/corpus-vnpos/du-lieu-vnpos1/",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "https://vi.wikipedia.org/wiki/Ng%E1%BB%AF_li%E1%BB%87u",
+			  "relevance"  : 0
+			},
+			{
+			  "name"       : "http://viet.jnlp.org/kien-thuc-co-ban-ve-xu-ly-ngon-ngu-tu-nhien/thuat-toan-tach-tu-tokenizer/thuat-toan-tach-tu",
+			  "relevance"  : 0
+			}
+		]
+	}
+}

@@ -1,0 +1,128 @@
+{
+	"data": {
+	  "query":"Tìm hiểu về xử lý ngôn ngữ tự nhiên",
+	  "description": "Tìm những thông tin liên quan, cách học, cách tiếp cận về xử lý ngôn ngữ tự nhiên",
+		"arrLink": [
+			{
+			  "name"       : "https://vi.wikipedia.org/wiki/X%E1%BB%AD_l%C3%BD_ng%C3%B4n_ng%E1%BB%AF_t%E1%BB%B1_nhi%C3%AAn",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://viet.jnlp.org/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://viet.jnlp.org/kien-thuc-co-ban-ve-xu-ly-ngon-ngu-tu-nhien/nlp-la-gi",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://tinhte.vn/threads/computer-science-xu-ly-ngon-ngu-tu-nhien-phan-1.2634689/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://ongxuanhong.wordpress.com/2016/02/06/gioi-thieu-cac-cong-cu-xu-ly-ngon-ngu-tu-nhien/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://tech.fpt.com.vn/xu-li-ngon-ngu-tu-nhien-nhung-dieu-can-biet/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://techtalk.vn/xu-ly-ngon-ngu-tu-nhien-natural-language-processing-la-gi.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://monhoc.vn/tai-lieu/luan-van-tim-hieu-ve-xu-ly-ngon-ngu-tu-nhien-va-may-dich-viet-chuong-trinh-mo-phong-tu-dien-viet-anh-2842/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://voer.edu.vn/m/xu-ly-ngon-ngu-tu-nhien/b687e267",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://doc.edu.vn/tai-lieu/do-an-tim-hieu-ve-xu-ly-ngon-ngu-tu-nhien-va-viet-chuong-trinh-mo-phong-kiem-tra-loi-tu-vung-trong-viec-su-dung-cau-7149/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.slideshare.net/minhpqn/cc-bi-ton-x-l-ngn-ng-t-nhin-trong-pht-trin-h-thng-chatbot",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://monhoc.vn/tai-lieu/xu-ly-ngon-ngu-tu-nhien/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://luanvan.net.vn/luan-van/do-an-tim-hieu-ve-xu-ly-ngon-ngu-tu-nhien-va-may-dich-viet-chuong-trinh-mo-phong-tu-dien-viet-anh-45974/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://github.com/minhpqn/nlp_100_drill_exercises",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://tailieu.vn/tag/xu-ly-ngon-ngu-tu-nhien.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.youtube.com/watch?v=vOC69lEKFBg",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://viblo.asia/p/xu-ly-ngon-ngu-tu-nhien-voi-python-p1-GrLZDbXw5k0",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.facebook.com/topdevvietnam/posts/1247489755300152",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://cse.hcmut.edu.vn/site/Media/PDF_CS/CO4021.pdf",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://monhoc.vn/tai-lieu/xu-ly-ngon-ngu-tu-nhien/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://cs.uit.edu.vn/xu-ly-ngon-ngu-tu-nhien/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://daynhauhoc.com/t/vnlp-bo-cong-cu-xu-ly-ngon-ngu-tu-nhien-cho-tieng-viet/21940",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://www.baomoi.com/tag/x%E1%BB%AD-l%C3%BD-ng%C3%B4n-ng%E1%BB%AF-t%E1%BB%B1-nhi%C3%AAn.epi",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://courses.uet.vnu.edu.vn/course/info.php?id=75",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://vccorp.vn/tuyen-dung/admicro-tuyen-ky-su-xu-ly-ngon-ngu-tu-nhien-20160217144044386.htm",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://www.kieutrongkhanh.net/2016/09/gioi-thieu-ve-natural-language.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://vnexpress.net/xu-ly-ngon-ngu-tu-nhien/tag-915644-1.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://seal.deha.vn/xu-ly-ngon-ngu-tu-nhien-voi-python-phan-1/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://www.wikiwand.com/vi/X%E1%BB%AD_l%C3%BD_ng%C3%B4n_ng%E1%BB%AF_t%E1%BB%B1_nhi%C3%AAn",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://vieclamit.careerbuilder.vn/advices/cac-thuat-ngu-trong-xu-ly-ngon-ngu-tu-nhien.35A4EA20.html",
+			  "relevance"  : 1
+			}
+		]
+	}
+}

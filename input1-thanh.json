@@ -1,0 +1,128 @@
+{
+	"data": {
+	  "query":"trích xuất thông tin từ website bằng javascript",
+	  "description": "Muốn tìm hiểu về cách trích xuất thông tin tử website bằng javascript hoặc các công nghệ liên quan đến javascript",
+		"arrLink": [
+			{
+			  "name"       : "https://toidicodedao.com/2015/07/28/tutorial-trich-xuat-thong-tin-tu-website-voi-html-aglitity-pack/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://anythingjs.com/crawl-du-lieu-cua-mot-trang-web-bang-nodejs/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://freetuts.net/boc-tach-du-lieu-tu-trang-khac-bang-php-simple-html-dom-parser-714.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://saysua.com/2013/09/14/trich-xuat-du-lieu-web-bang-php-voi-pqlite/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://forum.kienhoc.vn/t/hoi-ve-cach-dung-python-de-lay-so-lieu-tu-trang-web/880",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://diendan.congdongcviet.com/threads/t220129::trich-xuat-thong-tin-tu-ajax-trong-web-browser.cpp",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://daynhauhoc.com/t/lay-du-lieu-tu-web/7553",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://www.kieutrongkhanh.net/2017/06/su-dung-xml-parser-trich-xuat-du-lieu.html",
+			  "relevance"  : 1
+			},
+
+      {
+			  "name"       : "https://computers.tutsplus.com/vi/tutorials/how-to-extract-data-from-a-spreadsheet-using-vlookup-match-and-index--cms-20641",
+			  "relevance"  : 0
+			},{
+			  "name"       : "https://itstudent.net/vi/tin-t%E1%BB%A9c/chuy%C3%AAn-m%E1%BB%A5c/l%E1%BA%ADp-tr%C3%ACnh/html-agility-pack-c%C3%B4ng-c%E1%BB%A5-h%C3%A1i-l%C6%B0%E1%BB%A3m-tuy%E1%BB%87t-c%C3%BA-m%C3%A8o.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://streampow.net/tu-hoc-html-css-javascript-22/tao-bieu-mau-form-nhap-lieu-trong-html-70.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://viblo.asia/p/nhung-khai-niem-co-ban-ve-dom-DzVkpoDgenW",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://viblo.asia/p/html5-file-api-d6BAMYQ3Mnjz",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://vietjs.com/2014/06/01/tong-hop-tin-tuc-su-dung-node-js/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://kipalog.com/posts/Dung-selenium-de-crawl-du-lieu-Go-lang",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://www.hoclaptrinhweb.com/ajax/su-ket-hop-giua-ajax-va-json-hltw12492.aspx",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://vi.wikipedia.org/wiki/JSON",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://apollo13.vn/category/lap-trinh/javascript",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://vi.wikipedia.org/wiki/Ajax_(l%E1%BA%ADp_tr%C3%ACnh)",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://vi.wikipedia.org/wiki/HTML",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://whitehat.vn/threads/gioi-thieu-phan-tich-file-van-ban-office-va-pdf.4223/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://whitehat.vn/threads/gioi-thieu-phan-tich-file-van-ban-office-va-pdf.4223/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://blog.duyet.net/2015/08/cac-ky-thuat-crawler-rut-trich-du-lieu.html#.WbZDJ8gjHIU",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.google.com/intl/vi/insidesearch/howsearchworks/crawling-indexing.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://vinhpt90.wordpress.com/2010/10/28/cach-l%E1%BA%A5y-gia-tr%E1%BB%8B-t%E1%BB%AB-text-box-b%E1%BA%B1ng-javascript/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://thachpham.com/tools/brackets-code-editor-nen-dung-cho-web-designer.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://luanvan.co/luan-van/bao-cao-tot-nghiep-xay-dung-ung-dung-thu-thap-du-lieu-web-dong-45118/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://support.microsoft.com/vi-vn/help/555171",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://quantrimang.com/bao-mat-trong-ngon-ngu-web-16220",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://expressmagazine.net/development/685/boc-tach-noi-dung-tu-trang-web",
+			  "relevance"  : 0
+			}
+		]
+	}
+}

@@ -1,0 +1,120 @@
+{
+	"data": {
+	  "query":"Tìm hiểu về học máy",
+	  "description": "Tìm những thông tin liên quan, cách học, cách tiếp cận học máy",
+		"arrLink": [
+			{
+			  "name"       : "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_m%C3%A1y",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://luanvan.net.vn/luan-van/do-an-tim-hieu-ve-hoc-may-va-phuong-phap-hoc-khai-niem-xay-dung-module-mo-phong-thuat-toan-find-s-45903/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://khanhxnguyen.com/toi-da-hoc-machine-learning-nhu-the-nao-phan-1-lam-quen/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://techmaster.vn/posts/33982/lo-trinh-de-hoc-ve-machine-learning",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://viblo.asia/p/support-vector-machine-trong-hoc-may-mot-cai-nhin-don-gian-hon-XQZkxoQmewA",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://bis.net.vn/forums/t/619.aspx",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://luanvan.co/luan-van/luan-van-tim-hieu-ve-phuong-phap-hoc-may-va-phuong-phap-hoc-theo-cay-quyet-dinh-xay-dung-module-mo-phong-thuat-toan-id3-44616/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://caphuuquan.blogspot.com/2016/05/machine-learning-la-gi.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://dlib.ptit.edu.vn/bitstream/123456789/779/1/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://dlib.ptit.edu.vn/bitstream/123456789/1061/3/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://tailieu.vn/doc/do-an-tot-nghiep-dai-hoc-chinh-quy-tim-hieu-ve-hoc-may-va-phuong-phap-hoc-khai-niem-xay-dung-modul-1795744.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://dantri.com.vn/giao-duc-khuyen-hoc/5-hieu-lam-ve-nganh-tin-hoc-va-ky-thuat-may-tinh-20170804080029708.htm",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://techtalk.vn/tat-tan-tat-moi-kien-thuc-co-ban-ve-machine-learning.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://nguyeninvestment.com/luan-van/luan-van-tim-hieu-ve-phuong-phap-hoc-may-va-phuong-phap-hoc-theo-cay-quyet-dinh-xay-dung-module-mo-phong-thuat-toan-id3-45905/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://cafebiz.vn/tri-tue-nhan-tao-va-cong-nghe-may-hoc-nghe-thi-tuong-la-mot-nhung-thuc-ra-lai-khac-biet-o-diem-nay-20170301091848799.chn",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://ml4vn.blogspot.com/2017/05/may-hoc-la-gi.html",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://gmtvn.wordpress.com/2016/02/29/may-hoc-machine-learning-la-gi-va-cac-moc-phat-trien/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "http://vnoi.info/wiki/translate/ml/Machine-Learning-Classification-phan-1",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.hotcourses.vn/subject/computer-science/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://sites.google.com/a/wru.vn/cse445fall2016/",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.youtube.com/watch?v=DUB6JnZl8FU",
+			  "relevance"  : 1
+			},
+      {
+			  "name"       : "https://www.facebook.com/timhieumaytinh/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://thuvienso.ut.edu.vn/doc/10-phut-hoc-may-tinh-moi-ngay-tim-hieu-ve-o-cung-57262.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://daihoc.fpt.edu.vn/hoc-phi/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://machinelearningcoban.com/2016/12/27/categories/",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "https://edumall.vn/course/khoa-hoc-may-tinh-phan-2",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://aum.edu.vn/tin-tuc/nganh-cong-nghe-thong-tin-co-phai-la-lua-chon-nghe-nghiep-tot.html",
+			  "relevance"  : 0
+			},
+      {
+			  "name"       : "http://aum.edu.vn/tin-tuc/nganh-cong-nghe-thong-tin-co-phai-la-lua-chon-nghe-nghiep-tot.html",
+			  "relevance"  : 0
+			}
+		]
+	}
+}

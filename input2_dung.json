@@ -1,0 +1,72 @@
+{
+	"data": {
+	  "query":"Ứng dụng mạng nơ-ron trong dự báo",
+	  "description": "Muốn tìm  hiểu về các ứng dụng của mạng nơ-ron trong dự báo của tất cả mọi lĩnh vực ",
+		"arrLink": [
+			{
+			  "name"       : "https://www.slideshare.net/MrNguyenVanTrinh/ng-dng-mng-nron-trong-d-bao-ty-l-nghi-hoc",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://text.123doc.org/document/3346988-mang-noron-nhan-tao-va-ung-dung-trong-du-bao-thoi-tiet.htm",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://vi.wikipedia.org/wiki/H%E1%BB%8Dc_m%C3%A1y",
+			  "relevance"  : 5
+			},
+			{
+			  "name"       : "http://dlib.hust.edu.vn/handle/HUST_123/138",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.zbook.vn/ebook/ung-dung-mang-no-ron-nhan-tao-trong-du-bao-ngan-han-phu-tai-dien-khu-vuc-tinh-soc-trang-46415/ ",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://books.google.com.vn/books/about/%E1%BB%A9ng_d%E1%BB%A5ng_m%E1%BA%A1ng_n%C6%A1ron_nh%C3%A2n_t%E1%BA%A1o_t.html?id=pIM2ngAACAAJ&redir_esc=y",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://doc.edu.vn/tai-lieu/de-tai-nghien-cuu-ung-dung-mang-noron-nhan-tao-trong-du-bao-ngan-han-phu-tai-dien-giai-doan-2-49033/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://www.ibm.com/developerworks/.../api/.../tieuluan_neural_vutruc.docx",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://203.113.135.199/Opacdigital/wpViewFileConvertedTrailer.aspx?Id=2291",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.ievn.com.vn/tin-tuc/De-tai-Nghien-cuu-ap-dung-mang-no-ron-nhan-tao-trong-du-bao-ngan-han-phu-tai-dien-giai-doan-1-6-639.aspx",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://vnreview.vn/tin-tuc-khoa-hoc-cong-nghe/-/view_content/content/2261460/ung-dung-mang-no-ron-bien-hinh-anh-phang-thanh-mo-hinh-3d",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://www.vjol.info/index.php/JSTD/article/viewArticle/721",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://thuvienso.vlute.edu.vn/doc/mang-noron-du-bao-phu-tai-dien-ngan-han-ung-dung-tai-ha-noi-anh-huong-cua-cac-thong-so-thoi-tiet-373322.html",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://luanvan.net.vn/luan-van/luan-van-nghien-cuu-ung-dung-mang-noron-nhan-tao-trong-dubao-phutai-ngan-han-cho-thanh-pho-da-nang-51889/",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "http://nawapi.gov.vn/index.php?option=com_content&view=article&id=2921%3A-tai-qnghien-cu-ng-dng-mng-nron-nhan-to-artificial-neural-network-ann-trong-tinh-toan-la-chn-phng-an-bo-v-tai-nguyen-nc-mt-th-nghim-cho-lu-vc-song-cuq&catid=70%3Anhim-v-chuyen-mon-ang-thc-hin&Itemid=135&lang=vi",
+			  "relevance"  : 1
+			},
+			{
+			  "name"       : "https://viblo.asia/p/bai-toan-du-doan-prediction-dua-tren-mo-hinh-hoi-quy-trong-machine-learning-YmjeoLgzkqa",
+			  "relevance"  : 0
+			}
+		]
+	}
+}
